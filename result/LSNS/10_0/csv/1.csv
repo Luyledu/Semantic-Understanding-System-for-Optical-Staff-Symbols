@@ -1,0 +1,10 @@
+1,Single_barline,Gclef,Rests8,Rests16,16_2,16_5,16_7,16_2,16_5,16_7,Rests8,Rests16,16_2,16_5,16_7,16_2,16_5,16_7,Single_barline,Rests8,16_3,16_6,16_8,16_3,16_6,16_8,Rests8,Rests16,16_3,16_6,16_8,16_3,16_6,16_8,Single_barline
+2,Single_barline,Fclef,2_10,8_12,dot,4_12,2_10,8_12,dot,4_12,Single_barline,2_10,8_11,dot,4_11,2_10,8_11,dot,4_11,Single_barline
+3,Single_barline,Gclef,Rests8,Rests16,16_2,16_6,16_8,16_2,16_6,16_8,Rests8,Rests16,16_2,16_6,16_8,16_2,16_6,16_8,Single_barline,Rests8,Rests16,16_2,16_5,16_7,16_2,16_5,16_7,Rests8,Rests16,16_2,16_5,16_7,16_2,16_5,16_7,Single_barline
+4,Single_barline,Fclef,2_9,8_11,dot,4_11,2_9,8_11,dot,4_11,Single_barline,2_10,8_12,dot,4_12,2_10,8_12,dot,4_12,Single_barline
+5,Single_barline,Gclef,Rests8,Rests16,16_3,16_7,16_10,16_3,16_7,16_10,Rests8,Rests16,16_3,16_7,16_10,16_3,16_7,16_10,Single_barline,Rests8,Sharp,16_1,16_3,16_6,16_1,16_3,16_6,Rests8,Rests16,16_1,16_3,16_6,16_1,16_3,16_6,Single_barline
+6,Single_barline,Fclef,2_10,8_12,dot,4_12,2_10,8_12,dot,4_12,Single_barline,2_10,8_11,dot,4_11,2_10,8_11,dot,4_11,Single_barline
+7,Single_barline,Gclef,Rests8,Rests16,16_2,16_6,16_9,16_2,16_6,16_9,Rests8,Rests16,16_2,16_6,16_9,16_2,16_6,16_9,Single_barline,Rests8,Rests16,16_0,16_2,16_5,16_0,16_2,16_5,Rests8,Rests16,16_0,16_2,16_0,16_0,16_2,16_5,Single_barline
+8,Single_barline,Fclef,2_9,8_11,dot,4_11,2_9,8_11,dot,4_11,Single_barline,2_9,8_10,dot,4_10,2_9,8_10,dot,4_10,Single_barline
+9,Single_barline,Gclef,Rests8,Rests16,16_0,16_2,16_5,16_0,16_2,16_5,Rests8,Rests16,16_0,16_2,16_5,16_0,16_2,16_5,Single_barline,Rests8,16_-1,Sharp,16_1,16_5,16_-1,16_1,16_5,Rests8,16_-1,16_1,16_5,16_-1,16_1,16_5,Single_barline
+10,Single_barline,Fclef,2_8,8_10,dot,4_10,2_8,8_10,dot,4_10,Single_barline,8_8,dot,4_8,2_4,Rests16,8_8,dot,4_8,Single_barline

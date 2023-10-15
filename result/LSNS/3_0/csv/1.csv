@@ -1,0 +1,7 @@
+1,Gclef,D_S,4_10,Single_barline,8_8,8_10,8_8,8_10,4_13,Single_barline,8_13,8_12,8_11,8_10,8_9,8_8,Single_barline,8_10,8_9,2_7,Single_barline,8_5,8_7,4_3,4_10,Single_barline,8_8,8_10,8_8,8_10,4_13,Single_barline
+2,Gclef,D_S,8_13,8_12,8_11,8_10,8_9,8_8,Single_barline,8_10,8_9,8_7,8_5,8_3,8_10,Single_barline,2_6,8_5,8_6,Single_barline,8_7,Sharp,8_6,8_7,8_5,8_3,8_5,Single_barline,8_7,Sharp,8_6,8_7,8_5,8_3,8_5,Single_barline
+3,Gclef,D_S,8_7,Sharp,8_6,8_7,8_8,8_9,8_10,Single_barline,8_9,8_8,8_7,Natural,8_6,8_5,8_6,Single_barline,8_7,Sharp,8_6,8_7,8_5,8_3,8_5,Single_barline,8_7,Sharp,8_6,8_7,8_5,8_3,8_5,Single_barline,8_7,Sharp,8_6,8_7,8_5,8_3,8_10,Single_barline,Natural,2_6
+4,Gclef,D_S,4_-1,Single_barline,2_-4,8_-3,8_-2,Single_barline,4_-1,Rests4,8_8,8_6,Single_barline,8_9,8_7,8_5,8_3,8_10,8_8,Single_barline,8_6,8_3,8_1,8_-1,8_1,8_-1,Single_barline,2_-4,8_-3,8_-2,Single_barline,4_-1,Rests4,8_8,8_6,Single_barline
+5,Gclef,D_S,8_9,8_7,8_5,8_3,8_10,8_8,Single_barline,4_6,4_-1,8_10,8_8,Single_barline,8_11,8_9,8_6,8_10,8_8,8_6,Single_barline,8_9,8_6,8_4,8_10,8_8,8_6,Single_barline,8_11,8_9,8_6,Natural,8_12,8_10,8_8,Single_barline
+6,Gclef,D_S,8_13,8_11,8_9,8_10,8_8,8_6,Single_barline,8_11,8_9,8_6,8_10,8_8,8_6,Single_barline,8_9,8_6,8_4,8_10,8_8,8_6,Single_barline,8_11,8_9,8_7,8_5,8_3,8_5,Single_barline,4_6,4_-1,4_6,4_-1,Rests4,Final_barline
+7,Gclef,Sharp,2_6,dot,Single_barline,4_5,8_10,Rests8,4_5,Single_barline,2_5,dot,Single_barline,4_6,8_10,Rests8,4_6,Single_barline,2_6,dot,Single_barline,4_5,8_10,Rests8,4_5,Single_barline,4_5,8_11,Rests8,4_5,Single_barline
