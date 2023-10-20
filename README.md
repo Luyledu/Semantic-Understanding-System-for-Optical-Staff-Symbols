@@ -14,8 +14,13 @@ Design of Semantic Understanding System for Optical Staff Symbols
 
 + train/val dataset
   You can download our dataset by visiting this link: https://drive.google.com/file/d/1UOg_gwttJKfE_kuWZ82XCzoSr7TDbLai/view?usp=drive_link
+
+  or you can go to the branch master and view the data set
+  
 + test datsset
   test2009
+
+
 
 ### LSNS result
 
