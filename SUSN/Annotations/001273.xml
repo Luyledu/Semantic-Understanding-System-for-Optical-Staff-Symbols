@@ -1,0 +1,29 @@
+<annotation>
+  <folder>Images</folder>
+  <filename>001273.jpg</filename>
+  <size>
+    <width>653</width>
+    <height>924</height>
+    <depth>001273.jpg</depth>
+  </size>
+  <object>
+    <name>Single_barline</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>551.0</xmin>
+      <ymin>188.0</ymin>
+      <xmax>567.0</xmax>
+      <ymax>253.0</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Single_barline</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>551.0</xmin>
+      <ymin>407.0</ymin>
+      <xmax>566.0</xmax>
+      <ymax>471.0</ymax>
+    </bndbox>
+  </object>
+</annotation>

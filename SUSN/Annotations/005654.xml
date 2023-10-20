@@ -1,0 +1,29 @@
+<annotation>
+  <folder>Images</folder>
+  <filename>005654.jpg</filename>
+  <size>
+    <width>1960</width>
+    <height>1386</height>
+    <depth>005654.jpg</depth>
+  </size>
+  <object>
+    <name>Final_barline</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1845.0</xmin>
+      <ymin>1.0</ymin>
+      <xmax>1870.0</xmax>
+      <ymax>53.0</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>3</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>686.0</xmin>
+      <ymin>68.0</ymin>
+      <xmax>709.0</xmax>
+      <ymax>95.0</ymax>
+    </bndbox>
+  </object>
+</annotation>

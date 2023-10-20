@@ -1,0 +1,14 @@
+<annotation verified="yes">
+	<folder>JPEGImages</folder>
+	<filename>000667.jpg</filename>
+	<path>/Users/loufengbin/Documents/python/pythonProject/tensorflow/YOLO/Data/VOC/VOC2009/JPEGImages/000667.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>653</width>
+		<height>924</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>
